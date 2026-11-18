@@ -36,5 +36,17 @@
       "category": "飲品",
       "price": 30
     }
+    {
+      "name": "雞胸肉健康餐盒",
+      "description": "雞胸肉很嫩，菜很好吃。",
+      "category": "餐點",
+      "price": 130
+    }
+    {
+      "name": "波霸奶茶",
+      "description": "奶茶的香味讚。",
+      "category": "飲品",
+      "price": 70
+    }
   ]
 }
